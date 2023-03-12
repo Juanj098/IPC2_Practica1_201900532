@@ -9,5 +9,5 @@ class Games:
         self.siguiente = None
         self.anterior = None
 
-    def __str__(self) -> str:
-        return f"name -> {self.Name}, code -> {self.Code}, plats -> {self.Plats}"
+    # def __str__(self) -> str:
+    #     return f"name -> {self.Name}, code -> {self.Code}, plats -> {self.Plats}"
